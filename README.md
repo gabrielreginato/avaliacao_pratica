@@ -6,4 +6,4 @@
 * npm start
 
 # Aplicação Front-End
-## Deve ser executada através do arquivo 'index.html'
+## Deve ser executada através de um servidor http na porta 5500, por exemplo, através da extensão Live Server.
